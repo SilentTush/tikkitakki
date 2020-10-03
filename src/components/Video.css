@@ -1,7 +1,13 @@
-video {
+.video {
 	position: relative;
-	background-color: aliceblue;
-	height: 800px;
-    width: 100%;
-    scroll-snap-align: start;
+	background-color: rgb(224, 224, 224);
+	width: 100%;
+	height: 100%;
+	scroll-snap-align: start;
+}
+
+.video_player {
+	object-fit: fill;
+	width: 100%;
+	height: 100%;
 }
