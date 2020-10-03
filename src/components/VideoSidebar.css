@@ -1,14 +1,11 @@
 .videoSidebar {
 	position: absolute;
-	top: 0;
+	top: 50%;
 	right: 10px;
-	color: white;
-	height: 300px;
-	width: 300px;
-	background-color: black;
+	color: rgb(51, 51, 51);
 }
 
-.vb {
+.videoSidebar_button {
 	padding: 20px;
 	text-align: center;
 }

@@ -5,7 +5,7 @@ import Video from "./components/Video";
 function App() {
 	return (
 		<div className="app">
-			<h1>TikkiTakki</h1>
+			<h1 className="tik">TikkiTakki</h1>
 			<div className="app_videos">
 				<Video />
 			</div>

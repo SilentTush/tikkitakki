@@ -1,10 +1,13 @@
+
 html {
 	scroll-snap-type: y mandatory;
 }
-
+.tik {
+	color: white;
+}
 .app {
 	height: 100vh;
-	background-color: rgb(97, 97, 97);
+	background-color: rgb(19, 19, 19);
 	display: grid;
 	place-items: center;
 }
