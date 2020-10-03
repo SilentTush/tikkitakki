@@ -8,7 +8,6 @@ function App() {
 			<h1>TikkiTakki</h1>
 			<div className="app_videos">
 				<Video />
-				<Video />
 			</div>
 		</div>
 	);
